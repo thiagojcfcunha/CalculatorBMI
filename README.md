@@ -1,5 +1,5 @@
 # BMI Calculator
-BMI Calculator was an application that I developed for my first steps as Android Developer. I participated in the 10D (10 Days) challenge in the DevSpace community and managed to accomplish my first project.
+BMI Calculator was an application that I developed for my first steps as Android Developer. I participated in the 10D (10 Days) challenge in the DevSpace community and managed to accomplish my first project starting from the ZERO.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
